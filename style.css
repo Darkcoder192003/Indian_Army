@@ -16,7 +16,7 @@
 }
 .first_page{
     height: 100vh;
-    background-image: linear-gradient(to left, rgba(0,0,0,0.7)20%, rgba(0,0,0,0)), url("/images/commondo2.jpg");
+    background-image: linear-gradient(to left, rgba(0,0,0,0.7)20%, rgba(0,0,0,0)), url("Images/commondo2.jpg");
     background-size: cover;
     position: relative;
 
